@@ -22,10 +22,10 @@ etc.
 
 options:
 
--h: print this help and exit
--k <integer>: pattern weight (default 12)
--t <integer>: numer of threads (default: 10)
--s <integer>: the minimum score of a spaced-word match to be considered homologous (default: 0)
+-h: print this help and exit\
+-k <integer>: pattern weight (default 12)\
+-t <integer>: numer of threads (default: 10)\
+-s <integer>: the minimum score of a spaced-word match to be considered homologous (default: 0)\
 
 
 Scientific publications using filtered spaced word matches should cite:
