@@ -11,13 +11,13 @@ run with: ./fswm [options] <sequences >
 
 The input sequences must be contained in one single file FASTA format. Each species/genome must be represented by one single sequence in the input FASTA file. If you have multiple reads, contigs or chromosomes per input species, please concatenate them to one single sequence to make sure each species/genome corresponds to only one sequence. Example:
 
-\>Genome1
-ATAGTAGATGAT..
-\>Genome2
-ATAGTAGTAGTAG..
-\>Genome3
-ATGATGATGATGATG..
-..
+\>Genome1\
+ATAGTAGATGAT..\
+\>Genome2\
+ATAGTAGTAGTAG..\
+\>Genome3\
+ATGATGATGATGATG..\
+..\
 etc.
 
 options:
